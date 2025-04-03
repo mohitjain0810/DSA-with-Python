@@ -1,0 +1,112 @@
+DSA
+
+✅ Array and String:
+Find the missing number in an array of size n-1 containing elements from 1 to n.
+
+Reverse a string or array.
+
+Check if a string is a palindrome.
+
+Rotate an array by k positions.
+
+Merge two sorted arrays.
+
+Find the maximum sum of a subarray (Kadane’s Algorithm).
+
+Find the first non-repeating character in a string.
+
+Remove duplicates from a sorted array.
+
+Count the number of occurrences of an element in a sorted array.
+
+Find the majority element in an array.
+
+✅ Hashing and Dictionaries:
+Two Sum Problem (Find two numbers that add up to a target).
+
+Find duplicates in an array.
+
+Longest substring without repeating characters.
+
+Group anagrams from a list of strings.
+
+Count frequency of elements in an array or string.
+
+✅ Linked List:
+Reverse a linked list.
+
+Detect and remove a cycle in a linked list.
+
+Merge two sorted linked lists.
+
+Find the middle of a linked list.
+
+Remove duplicates from a linked list.
+
+✅ Stack and Queue:
+Implement a stack using arrays or linked list.
+
+Implement a queue using stacks.
+
+Check for balanced parentheses in an expression.
+
+Next greater element in an array.
+
+Implement Min Stack to get minimum element in constant time.
+
+✅ Searching and Sorting:
+Binary search on a sorted array.
+
+Find first and last occurrence of an element in a sorted array.
+
+Quick sort and merge sort.
+
+Count inversions in an array.
+
+Find the kth smallest or largest element in an array.
+
+✅ Dynamic Programming (DP):
+Fibonacci number using DP.
+
+Longest common subsequence (LCS).
+
+Coin change problem.
+
+0/1 Knapsack problem.
+
+Longest increasing subsequence.
+
+✅ Tree and Graph:
+Inorder, Preorder, Postorder tree traversal.
+
+Level order traversal of a binary tree.
+
+Check if a tree is a BST.
+
+Find the lowest common ancestor (LCA).
+
+Implement BFS and DFS in a graph.
+
+✅ Mathematical Problems:
+Check if a number is prime.
+
+Find GCD and LCM of two numbers.
+
+Count the number of set bits in a number.
+
+Check if a number is a power of 2.
+
+Factorial of a number using recursion.
+
+✅ Important Problem Solving Techniques:
+Sliding Window Problems (e.g., Maximum sum of subarray of size k).
+
+Two Pointer Technique Problems.
+
+Prefix Sum and Difference Array.
+
+Greedy Algorithms Problems.
+
+Backtracking Problems.
+
+💡 Pro Tip: Focus on arrays, strings, hashmaps, and dynamic programming as they are often used in data science tasks.
